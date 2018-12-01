@@ -12,11 +12,11 @@ Information is so important, and finding valuable information in massive amounts
 
 Before going on, let me first introduce some background knowledge: After Google exited from China in 2010, Baidu occupied most of the market share of the Chinese search market. Baidu's business model is auction-ranking advertising, which is different from Google. Baidu’s bidding ranking ads are notorious. Over the years, because of these advertisements, many people have been deceived and lost money, a small number of them have suffered from health damage, and some even paid the price of choosing a wrong search engine with their lives. Related links are attached at the end of the article for your reference.
 
+![Search Engine market share of China between 201001 and 201810](https://raw.githubusercontent.com/ithinco/i-am-chinese-the-dragonfly-must-go-on/master/statCounter-search_engine-CN-monthly-201001-201810.png?raw=true "Search Engine market share of China between 201001 and 201810")
+
 In China, people who are tech-savvy and have access of VPN use Google. Those who are familiar with technology but don't have VPN access will use Sogou and Bing. Most of the rest have no choice but using Baidu, which makes them a potential victim.
 
 You may not have much concept when I say "the rest". It's about 551,615,600 people (as of June 30 this year, Chinese netizens reached 802 million; according to StatCounter data, Baidu’s market share in June 2018 It is 68.78%).
-
-![Search Engine market share of China between 201001 and 201810](https://raw.githubusercontent.com/ithinco/i-am-chinese-the-dragonfly-must-go-on/master/statCounter-search_engine-CN-monthly-201001-201810.png?raw=true "Search Engine market share of China between 201001 and 201810")
 
 These 551,615,600 people are ordinary people like you and me. They have family, friends and loved ones. The lack of understanding of technology should not be the reason for their suffering! They deserve a better choice of technology!
 
