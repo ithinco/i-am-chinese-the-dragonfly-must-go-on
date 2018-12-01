@@ -52,7 +52,7 @@ So, what's your choice? what do you think is the Right thing to do?
 
 3.Being deceived, losing money cases
 
-[What has Baidu done that made a negative impact？](https://www.zhihu.com/question/45204818)（3203 个答案，15,639,019 次查看）
+[What has Baidu done that made a negative impact？](https://www.zhihu.com/question/45204818)（3203 answers，15,639,019 viewed）
 
 4.[Baidu bidding ranking incidents](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D%E4%BA%8B%E4%BB%B6)
 
