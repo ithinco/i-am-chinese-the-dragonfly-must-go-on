@@ -1,5 +1,63 @@
+# I’m Chinese, Google’s DragonFly must go on
+
+I have long heard that in the United States, the squeaky wheel gets the oil, it seems that this is indeed the case. One of the recent incidents in Silicon Valley about China([We are Google employees, Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb)) has gotten Google and Google employees in dispute, while the voice from China, the third party of this event, is missing.(as far as I know)
+
+Tough I can't represent China, as a Chinese living in mainland China, I want Silicon Valley to hear (at least) a voice from China.
+
+I'm more than eagerly hope that Google could return to China, no matter in any form, for the following reasons: 
+
+We cannot deny that we are now in "the Information age", as the name tells, information plays a vital role in our time.
+
+Information is so important, and finding valuable information in massive amounts of information is equally important to people. Google’s market capitalization is the best proof.
+
+Before going on, let me first introduce some background knowledge: After Google exited from China in 2010, Baidu occupied most of the market share of the Chinese search market. Baidu's business model is auction-ranking advertising, which is different from Google. Baidu’s bidding ranking ads are notorious. Over the years, because of these advertisements, many people have been deceived and lost money, a small number of them have suffered from health damage, and some even paid the price of choosing a wrong search engine with their lives. Related links are attached at the end of the article for your reference.
+
+In China, people who are tech-savvy and have access of VPN use Google. Those who are familiar with technology but don't have VPN access will use Sogou and Bing. Most of the rest have no choice but using Baidu, which makes them a potential victim.
+
+You may not have much concept when I say "the rest". It's about 551,615,600 people (as of June 30 this year, Chinese netizens reached 802 million; according to StatCounter data, Baidu’s market share in June 2018 It is 68.78%).
+
+![Search Engine market share of China between 201001 and 201810](https://raw.githubusercontent.com/ithinco/i-am-chinese-the-dragonfly-must-go-on/master/statCounter-search_engine-CN-monthly-201001-201810.png?raw=true "Search Engine market share of China between 201001 and 201810")
+
+These 551,615,600 people are ordinary people like you and me. They have family, friends and loved ones. The lack of understanding of technology should not be the reason for their suffering! They deserve a better choice of technology!
+
+These 551,615,600 people are silent majority, they don't know how to make a sound, and they don't know that there are people who are arguing about their interests on the other side of the Earth, but this can't be the reason for your small group to deprive them of the technical benefits they deserve!
+
+If Google were in China, perhaps the young man named Wei Zesi would not have died as a result of deadly fake medical advertisements searched through Baidu.
+
+If Google had been in China, many others might not have suffered health damage as a result of fake medical advertisements found through Baidu.
+
+If Google were in China, a large number of people would not be deceived because of fake advertisements searched through Baidu, thus won't lose money and in despair. The money may be the cost of schooling for their children for a year, perhaps the life-saving money of their loved ones. It may be the hard-earned money they earned after months of hard work.
+
+Indeed, if Google had been in China and not gone.
+
+At the beginning of the first lesson in MOOC "Justice: what's the Right Thing to do?" , Professor Michael J. Sandel raised a question, assuming that you are a trolley car driver, the car is driving at high speed. At this time, you suddenly find that there are five workers working at the end of the track, you want to brake, but found that the brake has failed, the car is getting closer and closer to those workers. They don’t seem to hear it. At this time, you find that there is a martyrdom. Only one worker is doing things in the martyrdom. The steering wheel can still work. Do you choose to turn the steering wheel or not?
+
+If I were the driver, I would choose the side that would be beneficial for most people. 
+
+In "We are Google employees, Google must drop DragonFly", the author says that the marginal people will suffer because of Google's return to China, but in fact, they have a lot more choice than these 551,615,600 people, they are more proficient in technology and social media, and there are so many Silicon Valley high-tech people willing to offer help. After the launch of the Dragonfly project in China, if they feel that using Google is not safe, they always have alternatives, such as [DuckDuckGo](https://duckduckgo.com/).
+
+But those 551,615,600 people don't.
+
+So, what's your choice? what do you think is the right Thing to do?
+
+##### Reference(all of belowing links are Chinese)：
+
+1.Death case
+
+[Wei Zexi Incident](https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6)
+
+2.Physical health damage cases
+
+[What evils have Baidu done?](https://www.zhihu.com/question/39442061)
+
+3.Being deceived, losing money cases
+
+[What has Baidu done that made a negative impact？](https://www.zhihu.com/question/45204818)（3203 个答案，15,639,019 次查看）
+
+4.[Baidu bidding ranking incidents](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D%E4%BA%8B%E4%BB%B6)
+
 # 我是中国人，谷歌的蜻蜓项目必须继续
-我早就听说在美国，不会叫的孩子没有奶喝，看来事情的确如此。最近硅谷有一件和中国有关的事情([<我们是谷歌员工，谷歌必须放弃蜻蜓项目>We are Google employees,. Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb))引发了巨大争议，争议双方分别是谷歌以及谷歌员工，而来自事件主体中国的声音却几乎没有（就我所知）。我无法代表中国，但作为一位生活在中国大陆的中国人，我希望硅谷听到来自中国人的声音。
+我早就听说在美国，不会叫的孩子没有奶喝，看来事情的确如此。最近硅谷有一件和中国有关的事情([<我们是谷歌员工，谷歌必须放弃蜻蜓项目>We are Google employees, Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb))引发了巨大争议，争议双方分别是谷歌以及谷歌员工，而来自事件主体中国的声音却几乎没有（就我所知）。我无法代表中国，但作为一位生活在中国大陆的中国人，我希望硅谷听到来自中国人的声音。
 
 我热切盼望谷歌能重回中国，不管是以任何方式，理由如下：
 
@@ -28,9 +86,9 @@
 
 但这 551,615,600 人没有。
 
-所以，你的选择呢？
+所以，你的选择呢？该如何做是好？
 
-附录（与百度有关的重要新闻）：
+附录：
 
 1.死亡案例
 
