@@ -38,7 +38,7 @@ In "We are Google employees, Google must drop DragonFly", the author says that t
 
 But those 551,615,600 people don't.
 
-So, what's your choice? what do you think is the right Thing to do?
+So, what's your choice? what do you think is the Right thing to do?
 
 ##### Reference(all of belowing links are Chinese)：
 
