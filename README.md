@@ -56,6 +56,12 @@ So, what's your choice? what do you think is the Right thing to do?
 
 4.[Baidu bidding ranking incidents](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D%E4%BA%8B%E4%BB%B6)
 
+Also on: 
+
+HackerNews: [https://news.ycombinator.com/item?id=18574181](https://news.ycombinator.com/item?id=18574181)
+
+Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b](https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b)
+
 # 我是中国人，谷歌的蜻蜓项目必须继续
 我早就听说在美国，不会叫的孩子没有奶喝，看来事情的确如此。最近硅谷有一件和中国有关的事情([<我们是谷歌员工，谷歌必须放弃蜻蜓项目>We are Google employees, Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb))引发了巨大争议，争议双方分别是谷歌以及谷歌员工，而来自事件主体中国的声音却几乎没有（就我所知）。我无法代表中国，但作为一位生活在中国大陆的中国人，我希望硅谷听到来自中国人的声音。
 
@@ -103,3 +109,9 @@ So, what's your choice? what do you think is the Right thing to do?
 [百度做了哪些带来负面影响的事情？](https://www.zhihu.com/question/45204818)（3203 个答案，15,639,019 次查看）
 
 4.[百度竞价排名事件](https://zh.wikipedia.org/wiki/%E7%99%BE%E5%BA%A6%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D%E4%BA%8B%E4%BB%B6)
+
+也发表在： 
+
+HackerNews: [https://news.ycombinator.com/item?id=18574181](https://news.ycombinator.com/item?id=18574181)
+
+Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b](https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b)
