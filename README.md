@@ -30,7 +30,7 @@ If Google were in China, a large number of people would not be deceived because 
 
 Indeed, if Google had been in China and not gone.
 
-At the beginning of the first lesson in MOOC "Justice: what's the Right Thing to do?" , Professor Michael J. Sandel raised a question, assuming that you are a trolley car driver, the car is driving at high speed. At this time, you suddenly find that there are five workers working at the end of the track, you want to brake, but found that the brake has failed, the car is getting closer and closer to those workers. They don’t seem to hear it. At this time, you find that there is a martyrdom. Only one worker is doing things in the martyrdom. The steering wheel can still work. Do you choose to turn the steering wheel or not?
+At the beginning of the first lesson in MOOC "[Justice: what's the Right Thing to do?](http://justiceharvard.org/justicecourse/)" , Professor Michael J. Sandel raised a question, assuming that you are a trolley car driver, the car is driving at high speed. At this time, you suddenly find that there are five workers working at the end of the track, you want to brake, but found that the brake has failed, the car is getting closer and closer to those workers. They don’t seem to hear it. At this time, you find that there is a martyrdom. Only one worker is doing things in the martyrdom. The steering wheel can still work. Do you choose to turn the steering wheel or not?
 
 If I were the driver, I would choose the side that would be beneficial for most people. 
 
@@ -84,7 +84,7 @@ Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55
 
 如果谷歌在中国，或许那个名叫魏则西的年轻人不会因为通过百度搜索到的虚假医学广告而死亡；如果谷歌在中国，其他许多人也不会因为通过百度搜索到的虚假医学广告而健康受损，长期承受痛苦；如果谷歌在中国，很大一批人也不会因为通过百度搜索到的虚假广告被骗而痛苦不堪，这些钱也许是他们孩子一年的上学费用，也许是他们亲人的救命钱，也许是他们辛苦几个月才赚到的血汗钱。
 
-在哈佛大学的公开课《公正：该如何做是好？》(Justice: What's the Right Thing to Do?)里，迈克·桑德尔(Michael J. Sandel)教授在第一节课开始时就提了一个问题，假设你是一位电车司机，车子在高速行驶中，这时你突然发现前面有五个工人在干活，你想刹车，却发现刹车失灵了，车离那些工人越来越近，他们好像没有听到一样，这时你发现有一条岔道，岔道上只有一名工人在做事，这时方向盘依然可以工作，请问你是选择转动方向盘还是不转？
+在哈佛大学的公开课《[公正：该如何做是好？](http://v.163.com/special/justice/)》(Justice: What's the Right Thing to Do?)里，迈克·桑德尔(Michael J. Sandel)教授在第一节课开始时就提了一个问题，假设你是一位电车司机，车子在高速行驶中，这时你突然发现前面有五个工人在干活，你想刹车，却发现刹车失灵了，车离那些工人越来越近，他们好像没有听到一样，这时你发现有一条岔道，岔道上只有一名工人在做事，这时方向盘依然可以工作，请问你是选择转动方向盘还是不转？
 
 如果我是司机，我会选择对大多数人有利的一面。
 
