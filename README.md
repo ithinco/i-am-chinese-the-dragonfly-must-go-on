@@ -1,5 +1,7 @@
 # I’m Chinese, Google’s DragonFly must go on
 
+[中文](#我是中国人谷歌的蜻蜓项目必须继续)
+
 I have long heard that in the United States, the squeaky wheel gets the oil, it seems that this is indeed the case. One of the recent incidents in Silicon Valley about China([We are Google employees, Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb)) has gotten Google and Google employees in dispute, while the voice from China, the third party of this event, is missing.(as far as I know)
 
 Though I can't represent China, as a Chinese living in mainland China, I want Silicon Valley to hear (at least) a voice from China.
