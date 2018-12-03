@@ -64,6 +64,8 @@ HackerNews: [https://news.ycombinator.com/item?id=18574181](https://news.ycombin
 
 Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b](https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b)
 
+TechCrunch China：[https://techcrunch.cn/2018/12/03/im-chinese-google-s-dragonfly-must-go-on/](https://techcrunch.cn/2018/12/03/im-chinese-google-s-dragonfly-must-go-on/)
+
 # 我是中国人，谷歌的蜻蜓项目必须继续
 我早就听说在美国，不会叫的孩子没有奶喝，看来事情的确如此。最近硅谷有一件和中国有关的事情([<我们是谷歌员工，谷歌必须放弃蜻蜓项目>We are Google employees, Google must drop DragonFly](https://medium.com/@googlersagainstdragonfly/we-are-google-employees-google-must-drop-dragonfly-4c8a30c5e5eb))引发了巨大争议，争议双方分别是谷歌以及谷歌员工，而来自事件主体中国的声音却几乎没有（就我所知）。我无法代表中国，但作为一位生活在中国大陆的中国人，我希望硅谷听到来自中国人的声音。
 
@@ -117,6 +119,8 @@ Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55
 HackerNews: [https://news.ycombinator.com/item?id=18574181](https://news.ycombinator.com/item?id=18574181)
 
 Medium: [https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b](https://medium.com/@ithinco/im-chinese-google-s-dragonfly-must-go-on-55daff08087b)
+
+TechCrunch 中国：[https://techcrunch.cn/2018/12/03/im-chinese-google-s-dragonfly-must-go-on/](https://techcrunch.cn/2018/12/03/im-chinese-google-s-dragonfly-must-go-on/)
 
 ## FAQ
 
