@@ -136,3 +136,9 @@ TechCrunch 中国：[https://techcrunch.cn/2018/12/03/im-chinese-google-s-dragon
   很多事情并没有绝对的对错，对于同一件事，每个人都会基于自己的立场形成不同的看法，本文只是为了向西方世界提供一种新的视角，如果不同意本文观点，可以自行撰写文章进行反驳；此外，参与争辩很花时间，这件事及其评论激发了我的灵感，我现在正忙于写小说。
 </details>
 <p></p>
+
+<details>
+  <summary>小说进度？</summary>
+  第一版草稿已经完成。
+</details>
+<p></p>
